@@ -1,0 +1,12 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-addons",
+  "name": "TextraHostDomainReseller",
+  "license": "proprietary",
+  "category": "domains",
+  "description": {
+    "name": "TextraHostDomainReseller",
+    "tagline": "",
+    "long": "For any type of Help or Support kindly Contact Us : textrahost.in"
+  }
+}
